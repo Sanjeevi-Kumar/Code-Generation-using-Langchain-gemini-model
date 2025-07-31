@@ -42,10 +42,14 @@ Then open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ## 📁 File Structure
 
-├── app.py             # Main Streamlit application \n
+├── app.py             # Main Streamlit application 
+
 ├── key.py             # Contains your Google API key
+
 ├── requirements.txt   # Required Python packages
+
 └── README.md          # You're reading it
+
 ## 🧑‍💻 Author
 
 **Sanjeevi Kumar M**  
